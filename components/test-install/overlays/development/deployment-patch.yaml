@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/mnagel/install-test:5e2ef3e2c6e26d7edae94b6082a167ca7b919254@sha256:52df36a7f5c2f5252b93d3165c3975861e3ab03d4bed39047b0f9a6ad29ff8ec
+        - image: quay.io/mnagel/install-test:1f5b891003d1ef421265d00c2d34524d07038218@sha256:9fb7c33948c02d3574a7ef195f33fffe8cef5c05752d6dff823bb936ced8427e
           name: container-image
